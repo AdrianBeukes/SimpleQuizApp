@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Simple Quiz App</string>
+
+    <string name="finish">Finish</string>
+    <string name="submit">Submit</string>
+    <string name="next">Go To Next Question</string>
+    <string name="score">Your Score is %1$d out of %2$d</string>
+    <string name="enter_name">Please Enter Your Name</string>
 </resources>
